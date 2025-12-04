@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Just Like Dat feat. JP THE WAVY - English Ver.",
+  "base_artist": "PSYCHIC FEVER from EXILE TRIBE",
+  "createdAt": "2025-12-04T13:26:24.494643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Like Dat feat. JP THE WAVY",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/01_Just_Like_Dat_feat._JP_THE_WAVY_PSYCHIC_FEVER_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just Like Dat feat. JP THE WAVY (feat. JP THE WAVY)",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/02_Just_Like_Dat_feat._JP_THE_WAVY_(feat._JP_THE_WAVY)_PSYCHIC_FEVER_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Like Dat feat. JP THE WAVY",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE, JP THE WAVY",
+      "has_synced": true,
+      "path": "select/03_Just_Like_Dat_feat._JP_THE_WAVY_PSYCHIC_FEVER_from_EXILE_TRIBE,_JP_THE_WAVY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Like Dat feat. JP THE WAVY",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE feat. JP THE WAVY",
+      "has_synced": true,
+      "path": "select/04_Just_Like_Dat_feat._JP_THE_WAVY_PSYCHIC_FEVER_from_EXILE_TRIBE_feat._JP_THE_WAVY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Like Dat feat. JP THE WAVY (feat. JP THE WAVY)",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/05_Just_Like_Dat_feat._JP_THE_WAVY_(feat._JP_THE_WAVY)_PSYCHIC_FEVER_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Like Dat feat. JP THE WAVY - English Ver.",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/06_Just_Like_Dat_feat._JP_THE_WAVY_-_English_Ver._PSYCHIC_FEVER_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just Like Dat feat. JP THE WAVY",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/pl_01_Just_Like_Dat_feat._JP_THE_WAVY_PSYCHIC_FEVER_from_EXILE_TRIBE.txt"
+    }
+  ]
+}
